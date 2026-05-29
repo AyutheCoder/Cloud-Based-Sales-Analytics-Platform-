@@ -1,0 +1,7 @@
+flask==3.*
+flask-cors==4.*
+firebase-admin==6.*
+functions-framework==3.*
+google-cloud-bigquery
+google-cloud-storage
+gunicorn==22.*
